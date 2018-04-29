@@ -17,5 +17,5 @@ spring:
 env:
   test
 lay: 
-  name: lsw
+  name: tingting
   age: 18
