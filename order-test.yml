@@ -1,0 +1,21 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: root
+    url: jdbc:mysql://127.0.0.1:3306/sringcloud_sell?characterEncoding=utf-8&useSSL=false
+  rabbitmq:
+    host: 192.168.195.111
+    port: 5672
+    username: guest
+    password: guest
+  redis:
+    host: 192.168.195.111
+    port: 6379
+  jpa:
+    show-sql: true
+env:
+  自动刷新终于特么的好了， 我得多玩会儿~~~
+lay: 
+  name: tingting
+  age: 18
