@@ -17,5 +17,5 @@ zuul:
 #      serviceId: config
     config: /myConfig/**
   # 排除某些路由
-  ignored-patterns: adfadf
+  ignored-patterns:
     - /**/product/listForOrder
