@@ -5,7 +5,7 @@ spring:
     password: root
     url: jdbc:mysql://127.0.0.1:3306/sringcloud_sell?characterEncoding=utf-8&useSSL=false
   redis:
-    host: 192.168.195.111
+    host: 192.168.99.100
     port: 6379
   jpa:
     show-sql: true
